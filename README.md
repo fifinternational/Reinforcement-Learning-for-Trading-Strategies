@@ -1,6 +1,6 @@
 # Reinforcement-Learning-for-Trading-Strategies
 ## GoogleCloud-ML-for-Trading
-Notes and exercises for Machine Learning for Trading Specialization Offered by Google Cloud and New York Institute of Finance on Coursera.
+Notes and exercises for Machine Learning for Trading Specialization Offered by Google Cloud and New York Institute of Finance on Coursera ((https://www.coursera.org/specializations/machine-learning-trading) )
 
 About
 This Specialization is for finance professionals, including but not limited to: hedge fund traders, analysts, day traders, those involved in investment management or portfolio management, and anyone interested in gaining greater knowledge of how to construct effective trading strategies using Machine Learning. Alternatively, this specialization can be for machine learning professionals who seek to apply their craft to quantitative trading strategies.
