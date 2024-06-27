@@ -80,7 +80,7 @@ git clone https://github.com/GoogleCloudPlatform/training-data-analyst.git
 
 - close_MIN_prior_5_days
 
--close_MIN_prior_20_days
+- close_MIN_prior_20_days
 
 - close_MIN_prior_260_days
 
